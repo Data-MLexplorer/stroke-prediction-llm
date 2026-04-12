@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+requests
+openai
