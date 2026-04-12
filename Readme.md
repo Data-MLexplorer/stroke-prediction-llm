@@ -182,3 +182,7 @@ openai
 - The ML model output is a probability estimate only. It is **not a medical diagnosis**.
 - Always consult a qualified clinician for any medical decisions.
 - The risk factor severity bars are based on clinical heuristics, not model feature importances.
+
+
+
+<img width="774" height="744" alt="Screenshot 2026-04-12 at 2 48 17 PM" src="https://github.com/user-attachments/assets/3941a434-60c1-4f3c-bf4d-a4eec7990932" />
