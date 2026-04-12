@@ -38,7 +38,7 @@ stroke-risk/
 
 ```bash
 
-cd stroke-risk-prediction
+https://github.com/Data-MLexplorer/stroke-prediction-llm.git
 ```
 
 ### 2. Install dependencies
